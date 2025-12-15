@@ -1,0 +1,182 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🍇",
+  "titre": "Tbilissi: Éclat d'Orient et de Caucase",
+  "budget_total": "900€",
+  "duree": "4 jours",
+  "temps_vol": "6h avec escale depuis Paris, France",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans la Vieille Ville",
+      "legende": "Après votre arrivée à Tbilissi, prenez le temps de vous installer et de vous imprégner de l'atmosphère unique de la vieille ville. Flânez dans ses ruelles pavées, admirez l'architecture éclectique et laissez-vous charmer par l'hospitalité géorgienne. Une première soirée douce pour s'acclimater en douceur.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "🛬 <strong>Arrivée à Tbilissi</strong>: Après votre atterrissage à l'aéroport international de Tbilissi (TBS), un transfert rapide vous mènera à votre hôtel. Le trajet dure environ 30-45 minutes, vous offrant un premier aperçu de la ville.",
+        "🛏️ <strong>Installation à l'hôtel et repos</strong>: Prenez le temps de vous installer dans votre hôtel 3 étoiles et de vous rafraîchir. Un moment de détente est bienvenu après le voyage pour commencer votre séjour en douceur.",
+        "🚶‍♂️ <strong>Balade découverte dans le quartier de Shardeni</strong>: Ce quartier piétonnier animé est parfait pour une première immersion. Flânez dans ses ruelles pavées, admirez l'architecture et imprégnez-vous de l'ambiance locale avec ses nombreux cafés et galeries."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le fuseau horaire de la Géorgie est GMT+4, soit 2 heures d'avance sur Paris en été et 3 heures en hiver."
+        },
+        {
+          "symbole": "🚕",
+          "titre": "Astuce transport",
+          "texte": "Utilisez des applications comme Bolt ou Yandex Go pour les taxis, les prix sont fixes et plus transparents."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌆",
+      "titre": "Histoire, Bains et Panoramas",
+      "legende": "Plongez au cœur de l'histoire de Tbilissi en explorant ses sites emblématiques. Des forteresses ancestrales aux bains sulfureux, cette journée vous offrira un mélange parfait de culture, de détente et de vues imprenables sur la capitale géorgienne. Une immersion complète dans l'âme de la ville.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "🚠 <strong>Montée à la Forteresse de Narikala</strong>: Prenez le téléphérique pour atteindre cette forteresse médiévale offrant une vue panoramique spectaculaire sur Tbilissi et la rivière Koura. C'est un excellent point de départ pour comprendre la géographie de la ville.",
+        "🧖‍♀️ <strong>Détente aux Bains Sulfureux d'Abanotubani</strong>: Offrez-vous une expérience unique dans les célèbres bains de soufre, reconnaissables à leurs dômes de briques. Ces bains sont réputés pour leurs propriétés thérapeutiques et sont une tradition ancestrale à Tbilissi.",
+        "🚶‍♂️ <strong>Exploration du quartier d'Abanotubani et de la cascade de Leghvtakhevi</strong>: Flânez dans ce quartier historique aux maisons colorées et découvrez la petite cascade nichée au cœur de la ville, un véritable havre de paix urbain."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "La vue depuis Narikala au coucher du soleil est magique, ne manquez pas cette opportunité."
+        },
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Conseil",
+          "texte": "Réservez votre bain sulfureux à l'avance, surtout si vous souhaitez une salle privée."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Art, Culture et Modernité",
+      "legende": "Cette journée est dédiée à la découverte de la facette artistique et moderne de Tbilissi, tout en explorant des lieux emblématiques. Du musée national aux ponts futuristes, vous verrez comment la ville allie harmonieusement son riche passé à une vision contemporaine. Une journée riche en contrastes et en découvertes.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "🏛️ <strong>Visite du Musée National de Géorgie</strong>: Explorez les trésors archéologiques et historiques du pays, y compris le Trésor d'Or, une collection impressionnante d'artefacts préchrétiens. C'est une immersion profonde dans l'héritage géorgien.",
+        "🚶‍♀️ <strong>Traversée du Pont de la Paix et Parc Rike</strong>: Admirez l'architecture moderne et audacieuse du Pont de la Paix, une structure en verre et acier qui enjambe la Koura. Le parc Rike, à proximité, est un espace vert contemporain avec des installations artistiques.",
+        "⛪ <strong>Découverte de la Cathédrale de la Sainte Trinité (Sameba)</strong>: Imposante et majestueuse, cette cathédrale est l'un des plus grands édifices religieux orthodoxes au monde. Son architecture impressionnante et sa vue sur la ville en font un site incontournable."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚇",
+          "titre": "Transport",
+          "texte": "Le métro de Tbilissi est efficace et économique pour se déplacer entre les différents quartiers de la ville."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez aux Khinkali (raviolis géorgiens) et au Khachapuri (pain au fromage) dans un restaurant local pour une expérience culinaire authentique."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Marché, Souvenirs et Départ",
+      "legende": "Profitez de votre dernière matinée pour vous imprégner une dernière fois de l'ambiance tbilissienne. Flânez dans un marché local pour dénicher des souvenirs authentiques et savourez un dernier repas géorgien avant de prendre la route de l'aéroport, la tête pleine de merveilleux souvenirs. Une fin de séjour en douceur.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "🛍️ <strong>Visite du Marché aux Puces du Pont Sec (Dry Bridge Market)</strong>: Ce marché en plein air est un véritable trésor pour les amateurs d'antiquités, d'artisanat et de curiosités. Vous y trouverez des souvenirs uniques et des objets d'art local.",
+        "🍽️ <strong>Dernier déjeuner géorgien</strong>: Savourez un dernier festin avec les saveurs locales. Profitez-en pour goûter des plats que vous n'auriez pas encore eu l'occasion de déguster et faire le plein de saveurs.",
+        "✈️ <strong>Transfert à l'aéroport et départ</strong>: Il est temps de dire au revoir à Tbilissi. Prévoyez suffisamment de temps pour le trajet vers l'aéroport et les formalités d'embarquement pour un départ serein."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le vin géorgien, les épices, les bijoux en émail cloisonné (Minankari) sont d'excellents souvenirs à rapporter."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Le marché du Pont Sec est plus animé le week-end, mais reste ouvert tous les jours pour les chineurs."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "400€/pers (vol A/R Paris-Tbilissi en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "48€/pers (métro, bus, taxi local pour 4 jours)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "160€/pers (4 jours, restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "210€/pers (3 nuits en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "60€/pers (entrées musées, bains, funiculaire)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai, juin, septembre et octobre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Géorgie compte environ 3,7 millions d'habitants, dont plus d'un tiers vit à Tbilissi, la capitale dynamique.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "La Géorgie est le berceau du vin, avec une tradition viticole millénaire inscrite au patrimoine de l'UNESCO.",
+      "symbole": "🍷"
+    },
+    {
+      "titre": "L'alphabet géorgien, unique au monde, est l'un des 14 alphabets existants et est d'une grande beauté calligraphique.",
+      "symbole": "✍️"
+    },
+    {
+      "titre": "La monnaie locale est le Lari géorgien (GEL). Les cartes bancaires sont acceptées, mais ayez du liquide pour les petits commerces.",
+      "symbole": "💳"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Géorgie",
+      "url": "https://georgia.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo",
+      "titre": "Météo Tbilissi",
+      "url": "https://www.accuweather.com/fr/ge/tbilisi/295212/weather-forecast/295212",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur les transports publics",
+      "titre": "Transports Tbilissi",
+      "url": "https://www.tbilisi.gov.ge/en/city-transport/",
+      "symbole": "🚆"
+    }
+  ]
+}
